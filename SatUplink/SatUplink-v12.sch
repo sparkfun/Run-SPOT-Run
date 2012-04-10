@@ -9312,7 +9312,7 @@ Standard SMD solder jumper. Used to automate production. Two varients : Normally
 <part name="GND15" library="SparkFun" deviceset="GND" device=""/>
 <part name="C12" library="SparkFun" deviceset="CAP_POL" device="1206" value="10uF"/>
 <part name="GND16" library="SparkFun" deviceset="GND" device=""/>
-<part name="U3" library="SparkFun" deviceset="HEX_CONVERTER" device="" value="74HC5040"/>
+<part name="U3" library="SparkFun" deviceset="HEX_CONVERTER" device="" value="74HC4050"/>
 <part name="GND17" library="SparkFun" deviceset="GND" device=""/>
 <part name="P+7" library="SparkFun" deviceset="3.3V" device=""/>
 <part name="P+8" library="SparkFun" deviceset="3.3V" device=""/>
