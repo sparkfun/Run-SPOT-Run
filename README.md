@@ -9,7 +9,7 @@ You will need your own registered SPOT ($150 for the hardware, $100 for the subs
 
 Please see this [tutorial](http://www.sparkfun.com/tutorials/340) for more information. 
 
-The hardware files were designed in Eagle v , and the firmware was developed in Arduino v1.0.
+The hardware files were designed in Eagle v6.1.0 , and the firmware was developed in Arduino v1.0.
 
 Repository Contents
 -------------------
